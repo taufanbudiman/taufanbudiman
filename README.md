@@ -1,5 +1,5 @@
 ### Hi there 👋, My Name is Taufan Budiman
-#### I am a web developer
+#### I am a Python Programmer
 
 I made this project just for fun.
 
