@@ -16,4 +16,4 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=taufanbudiman)  
 
-![Profile views](https://gpvc.arturio.dev/taufanbudiman)  
+![Views](https://komarev.com/ghpvc/?username=taufanbudiman&color=green)
