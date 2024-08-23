@@ -3,9 +3,9 @@
 
 I made this project just for fun.
 
-Skills: PYTHON / DJANGO / JS / HTML / CSS
+Skills: PYTHON / GO / .NET / Node.js
 
-- I’m currently working in Indonesia
+- Software Development Specialist at Bhinneka.Com Im a software engineer, working in one of the e-commerce companies in Indonesia. Skilled in Python (Programming Language) , Django (Framework) , Analytical Skills, jQuery, API Development, Problem Solving, Working in Teams, SSH Client.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taufanbudiman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taufanbudiman/)  
