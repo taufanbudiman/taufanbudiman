@@ -3,9 +3,9 @@
 
 I made this project just for fun.
 
-Skills: PYTHON / GO / .NET 
+Skills: PYTHON / GO / RUST
 
-- Software Development Specialist at Bhinneka.Com Im a software engineer, working in one of the e-commerce companies in Indonesia. Skilled in Python (Programming Language) , Django (Framework) , Analytical Skills, jQuery, API Development, Problem Solving, Working in Teams, SSH Client.
+- Backend engineer in PT. Visiprima Nusantara, working in one of the Education Technology companies in Indonesia.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/taufanbudiman)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/taufanbudiman/)  
