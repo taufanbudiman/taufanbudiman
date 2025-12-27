@@ -12,3 +12,5 @@ Skills: PYTHON / GO / RUST
 
 ![Views](https://komarev.com/ghpvc/?username=taufanbudiman&color=green)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=taufanbudiman&theme=monokai&mode=weekly)](https://git.io/streak-stats)
+
